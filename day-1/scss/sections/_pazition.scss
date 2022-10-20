@@ -1,0 +1,122 @@
+#main-img-and-cart {
+  gap: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* margin-top: 100px; */
+}
+.pozition {
+  gap: 125px;
+  margin-top: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pozition__cart {
+  width: 540px;
+}
+.pozition__h2 {
+  font-family: "Fraunces 9pt";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+  color: #333d4b;
+}
+.pozition__p {
+  margin-top: 32px;
+  font-family: "Barlow";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #333d4b;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+.pazition__reyktiv {
+  display: flex;
+  position: relative;
+}
+.main--pazition__box {
+  position: absolute;
+  z-index: -1;
+  margin-top: 256px;
+  display: flex;
+  align-items: center;
+  width: 1280px;
+  height: 474px;
+  background: #2c343e;
+  border-radius: 10px;
+}
+.main--pazition__cart {
+  margin-left: 85px;
+  width: 540px;
+}
+.main--pazition--cart__h2 {
+  font-family: "Fraunces 9pt";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+  color: #fefcf7;
+}
+.main--pazition__p {
+  margin-top: 32px;
+  font-family: "Barlow";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #fefcf7;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+.img__absuloyot {
+  border-radius: 9px;
+  margin-left: 750px;
+  margin-right: 85px;
+  margin-top: 168px;
+}
+.Our--headquarters__h2 {
+  font-family: "Fraunces 9pt";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 32px;
+  color: #83888f;
+}
+.mars__box {
+  margin-left: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 168px;
+}
+.mars--box__cart {
+  display: flex;
+  align-items: center;
+  gap: 95px;
+}
+.mars--box__text {
+  width: 272px;
+  margin-top: 72px;
+}
+.mars--box__texth2 {
+  margin-top: 42px;
+  font-family: "Fraunces 9pt";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 36px;
+  color: #333d4b;
+}
+.mars--box__p {
+  margin-top: 24px;
+  font-family: "Barlow";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #333d4b;
+}
