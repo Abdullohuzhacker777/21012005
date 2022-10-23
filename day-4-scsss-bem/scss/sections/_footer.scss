@@ -1,0 +1,43 @@
+.footer__box {
+  margin-top: 2300px;
+  padding-top: 47px;
+  padding-bottom: 47px;
+  width: 100%;
+  background: #2c343e;
+}
+.texst__cart {
+  display: flex;
+  align-items: center;
+}
+.texst--cart__ul {
+  margin-left: 102px;
+  gap: 32px;
+  list-style: none;
+  /* width: 283px; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.texst--cart__link {
+  text-decoration: none;
+  font-family: "Barlow";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 0.923077px;
+  text-transform: uppercase;
+  color: #83888f;
+  transition: 0.5s;
+}
+.texst--cart__link:hover {
+  color: #fff;
+}
+.link__imgs {
+  margin-left: 368px;
+  width: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
